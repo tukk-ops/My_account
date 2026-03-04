@@ -3,3 +3,4 @@
 功能描述：自動讀取論文 PDF、學術級翻譯、結構化輸出。
 
 技術棧：Python, PyMuPDF, Gemini 3.1 Pro API, Pandas。
+
