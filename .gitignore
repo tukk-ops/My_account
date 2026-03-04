@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pdf
+paper_analysis.csv
+report.md
